@@ -1,0 +1,7 @@
+boto3
+redis
+flask
+flask-cors
+Pillow
+flask_classful
+werkzeug==2.1.2
